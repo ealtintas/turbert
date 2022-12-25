@@ -1,3 +1,3 @@
 # turbert
 
-A BERT inspired model optimized for Turkish Language
+ A new language model which is optimized for Turkish and inspired from BERT.
